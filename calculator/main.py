@@ -4,7 +4,7 @@ import modules, sys
 
 a_and_b = []
 
-Input_raw = "nothing"
+Input_raw = "anything"
 
 runing = True
 
